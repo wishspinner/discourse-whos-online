@@ -17,7 +17,7 @@ after_initialize do
       isolate_namespace DiscourseWhosOnline
     end
   end
-
+ 
   module ::DiscourseWhosOnline::OnlineManager
 
     def self.redis_key
