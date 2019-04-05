@@ -3,7 +3,7 @@
 # version: 1.0
 # authors: David Taylor
 # url: https://github.com/davidtaylorhq/discourse-whos-online
-
+ 
 enabled_site_setting :whos_online_enabled
 
 PLUGIN_NAME ||= 'discourse_whos_online'.freeze
